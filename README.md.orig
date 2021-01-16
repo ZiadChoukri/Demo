@@ -1,6 +1,13 @@
 #Demo project un simple fichier
 
 Modification README
+<<<<<<< HEAD
+
 Modification README2
 
 Troube
+=======
+Modification README 2 
+
+Troubleshooting 
+>>>>>>> BAD
